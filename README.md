@@ -1,6 +1,5 @@
 -## Hello! 
 - 
-- 
 - 👋 Hi, I’m Jessica Gardin
 - 👀 I’m interested in biking, coding, hiking
 - 🌱 I’m currently learning CLI
