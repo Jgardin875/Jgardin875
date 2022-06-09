@@ -2,7 +2,7 @@
 - 
 - 👋 Hi, I’m Jessica Gardin
 - 👀 I’m interested in biking, coding, hiking
-- 🌱 I’m currently learning CLI, SQL, python, numpy
+- 🌱 I’m currently learning CLI, SQL, python, numpy, pandas 🐼
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me jess.gardin88@gmail.com
 
