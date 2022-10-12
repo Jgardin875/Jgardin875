@@ -1,8 +1,7 @@
 -## Hello! 
 - 
-- 👋 Hi, I’m Jessica Gardin
-- 👀 I’m interested in biking, coding, hiking
-- 🌱 I learned CLI, SQL, python, numpy, pandas 🐼 \
+- 👋 Welcome to my Github page! I have my Resume projects and sql code exercises pinned below.
+Skills: CLI, SQL, python, numpy, pandas \
        - Classification Models: Decision Tree, Random Forest, KNN, Logistic Regression \
        - Regression Models: Linear Regression, Polynomial Regression, LassoLars, GLM/Tweedie \
        - Clustering: Kmeans, DBSCAN \
