@@ -1,7 +1,8 @@
 -## Hello! 
 - 
 - 👋 Welcome to my Github page! I have my Resume projects and sql code exercises pinned below. \
-Skills: CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
+Skills: \
+CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
       Modeling: \
        - Classification Models: Decision Tree, Random Forest, KNN, Logistic Regression \
        - Regression Models: Linear Regression, Polynomial Regression, LassoLars, GLM/Tweedie \
