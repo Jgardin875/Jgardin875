@@ -10,6 +10,7 @@ CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
        - Scaling: MinMax, Standard, Robust 
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me jess.gardin88@gmail.com
+- 📈 https://www.linkedin.com/in/jessgardin/
 
 <!---
 Jgardin875/Jgardin875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
