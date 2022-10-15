@@ -12,6 +12,8 @@ CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
 - 📫 How to reach me jess.gardin88@gmail.com
 - 📈 https://www.linkedin.com/in/jessgardin/
 
+10/14/22 - The journey continues! I started doing hackerrank to keep my skills up, earned one star on python already!
+
 <!---
 Jgardin875/Jgardin875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
