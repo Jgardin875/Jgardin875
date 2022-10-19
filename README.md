@@ -13,7 +13,7 @@ CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
 - 📈 https://www.linkedin.com/in/jessgardin/
 
 10/14/22 - The journey continues! I started doing hackerrank to keep my skills up, earned one star on python already!
-           Also starting SQL on hackerrank!
+           Also starting SQL on hackerrank! and Linkedin Course!
 
 <!---
 Jgardin875/Jgardin875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
