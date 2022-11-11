@@ -12,7 +12,7 @@ CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
 - 📫 How to reach me jess.gardin88@gmail.com
 - 📈 https://www.linkedin.com/in/jessgardin/
 
-10/21/22 - Hackerrank: 1 star SQL, 2 stars Python - Working on Linked SQL Training
+11/11/22 - Hackerrank: 4 stars Python, 1 star SQL (working towards 4 on SQL now!)
       
 
 <!---
