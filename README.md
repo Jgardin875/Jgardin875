@@ -10,8 +10,8 @@ CLI, SQL, Python, Numpy, Pandas, Feature Engineering, sklearn, tableau, spark \
        - Scaling: MinMax, Standard, Robust 
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me jess.gardin88@gmail.com
-- 📈 https://www.linkedin.com/in/jessgardin/
-- 🔢 https://www.hackerrank.com/jess_gardin88
+- 👩‍💻 https://www.linkedin.com/in/jessgardin/
+- 📈 https://www.hackerrank.com/jess_gardin88
 
 11/27/22 - Hackerrank: 4 stars Python, 4 star SQL
       
